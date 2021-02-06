@@ -1,0 +1,63 @@
+{
+    "catagory": [
+        {
+            "name": "Book Chapters",
+            "content": [
+                {
+                    "author": "Zhi Liu, Mianxiong Dong, Hao Zhou, Xiaoyan Wang, Yusheng Ji, Yoshiaki Tanaka",
+                    "title": "User-Oriented Intercell Interference Coordination in Heterogeneous Networks (HetNets)",
+                    "medium": "in Book: Resource Allocation in Next-Generation Broadband Wireless Access Networks (IGI Global)",
+                    "remark": "pp. 145-166, February 2017",
+                    "link": "https://www.igi-global.com/chapter/user-oriented-intercell-interference-coordination-in-heterogeneous-networks-hetnets/178140"
+                },
+                {
+                    "author": "Kaoru Ota, Mianxiong Dong, Long Zheng, Jun Ma, Li Li, Daqiang Zhang, Minyi Guo",
+                    "title": "Next Generation Self-learning Style in Pervasive Computing Environments",
+                    "medium": "in Book: Advances in Computer Science and Engineering",
+                    "remark": "pp. 1-14, March 2011",
+                    "link": "https://www.intechopen.com/books/advances-in-computer-science-and-engineering/next-generation-self-learning-style-in-pervasive-computing-environments"
+                }
+            ]
+        },
+        {
+            "name": "Journal Papers",
+            "content": [
+                {
+                    "author": "Lei Liu, Jie Feng, Qingqi Pei, Chen Chen, Yang Ming, Bodong Shang, Mianxiong Dong",
+                    "title": "Blockchain-enabled Secure Data Sharing Scheme in Mobile Edge Computing: An Asynchronous Advantage Actor-Critic Learning Approach",
+                    "medium": "IEEE Internet of Things Journal",
+                    "remark": "In Press",
+                    "link": ""
+                },
+                {
+                    "author": "Dingding Li, Kaoru Ota, Yijie Zhong, Mianxiong Dong, Yong Tang, Jian Qiu",
+                    "title": "Towards High-Efficient Transaction Commitment in a Virtualized and Sustainable RDBMS",
+                    "medium": "IEEE Transactions on Sustainable Computing (T-SUSC)",
+                    "remark": "In Press",
+                    "link": "https://doi.org/10.1109/TSUSC.2019.2890841",
+                    "award": "IEEE Popular Article, January, 2019"
+                }
+            ]
+        },
+        {
+            "name": "Conference Papers",
+            "content": [
+                {
+                    "author": "Jiong Dong, Kaoru Ota, Mianxiong Dong",
+                    "title": "Real-Time Survivor Detection in UAV Thermal Imagery Based on Deep Learning",
+                    "medium": "The 16th International Conference on Mobility, Sensing and Networking (MSN 2020)",
+                    "remark": "Tokyo, Japan, December 17-19, 2020",
+                    "link": ""
+                },
+                {
+                    "author": "Chaofeng Zhang, Kaoru Ota, Mianxiong Dong",
+                    "title": "Accelerate Deep Learning in IoT: Human-Interaction Co-Inference Networking System for Edge",
+                    "medium": "IEEE 13th International Conference on Human System Interaction (HSI 2020)",
+                    "remark": "Tokyo, Japan, June 6-8, 2020",
+                    "link": "https://doi.org/10.1109/HSI49210.2020.9142631",
+                    "award": "Best Paper Award"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "catagory": [
+        {
+            "year": "2020",
+            "list": [
+                "Lecturer: J4046：Introduction to Information Systems (Class A), Muroran-IT, Spring 2020",
+                "Lecturer: B4215：Practice in Computational Intelligence, Muroran-IT, Spring 2020",
+                "Lecturer: B4214z：Practice in Information Systems, Muroran-IT, Spring 2020",
+                "Lecturer: J4046：Introduction to Information Systems (Class B),Muroran-IT, Spring 2020"
+            ]
+        },
+        {
+            "year": "2019",
+            "list": [
+                "Lecturer: B4214: Practice in Information Systems, Muroran-IT, Spring 2019",
+                "Lecturer: B4215: Practice in Computational Intelligence, Muroran-IT, Spring 2019",
+                "Lecturer: C4734: Technical English, Muroran-IT, Fall 2019",
+                "Lecturer: C4717: Laboratory in Information Systems, Muroran-IT, Fall 2019",
+                "Lecturer: B4413 C4732: Information Systems Research Work, Computational Intelligence Research Work, Muroran-IT, Fall 2019",
+                "Lecturer: B8302A: Information Engineering Practice B, Muroran-IT, Fall 2019",
+                "Lecturer: J8416: Information Systems Engineering, Muroran-IT, Fall 2019",
+                "Lecturer: C4611: Computer Networks, Muroran-IT, Fall 2019",
+                "Lecturer: MQ324: Special Lecture on Intelligent Informatics, Muroran-IT, Fall 2019"
+            ]
+        }
+    ]
+}

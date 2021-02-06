@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "time": "Jan. 13-16, 2021",
+            "content": "Keynote Speech at The 35th International Conference on Information Networking (ICOIN 2021)",
+            "link": "http://icoin.org/main.php",
+            "title": "Softwarized Low Power Long-range Emergency Communication Systems"
+        },
+        {
+            "time": "Dec. 19, 2020",
+            "content": "Invited Speech at 2020 Annual Meeting of the Overseas Chinese Doctor Association in Japan (日本華僑華人博士協会2020年度年会)",
+            "link": "https://mp.weixin.qq.com/s/s77-MUQoTpClgKZj5D6Obg"
+        },
+        {
+            "time": "Dec. 4, 2020",
+            "content": "Invited Speech at 2020 IEEE International Conference on Space-Air-Ground Computing (SAGC 2020)",
+            "link": "http://www.edgence.org/SAGC2020/schedule.html",
+            "title": "Aero, Terra, Human: Next Generation Disaster Response Platform",
+            "img": "SAGC2020.jpg"
+        }
+    ]
+}
