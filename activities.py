@@ -22,7 +22,7 @@ catagory_object = {
 
 catagory_object["name"] = soup.find('h1').get_text()
 
-item_list = soup.find('ul', id="zhenzhen")
+item_list = soup.find('ul', id=name+"_activities")
 
 item_list = item_list.find_all('li')
 
